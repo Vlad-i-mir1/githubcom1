@@ -1,0 +1,2 @@
+echo "(novajavetka)";
+echo "(novajavetka 2 )";
