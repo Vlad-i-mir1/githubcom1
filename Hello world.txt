@@ -1,2 +1,2 @@
-print("Hello World!");
-echo "(2)";
+print("Hello World!")
+echo "(2)"
